@@ -35,19 +35,3 @@
   - Use a **PivotTable** to summarize sales by product category.
   - Identify the category with the highest total sales and present it in a table or bar chart for clarity.
 
-
-### Dashboard Structure in Excel
-- **Components:**
-  - **Summary Section:** Key metrics like total sales, total orders, and average order value.
-  - **Charts and Graphs:** Visualizations for each of the analyses above (sales vs. orders, gender purchases, top states/cities, etc.).
-  - **Filters/Slicers:** Allow users to filter the data by year, category, channel, etc., for dynamic analysis.
-
-### Implementation Steps:
-1. **Data Preparation:** Ensure your data is clean and structured properly in Excel.
-2. **Create PivotTables:** For each analysis point, set up relevant PivotTables.
-3. **Insert Charts:** Use PivotCharts based on the PivotTables to create visual representations.
-4. **Design the Dashboard:** Organize your charts and tables in a clear layout, adding labels and titles for context.
-
-### Final Touches:
-- Use conditional formatting to highlight key data points.
-- Include a brief narrative or insights alongside the charts for clarity.
